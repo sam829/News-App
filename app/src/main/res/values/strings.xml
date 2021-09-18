@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InShort Clone</string>
+    <string name="description">Description</string>
+    <string name="placeholder">PlaceHolder</string>
+</resources>
